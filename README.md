@@ -17,3 +17,10 @@ Hi, I'm **Abdul Hannan**, and I'm a 13 years old and I think that coding is the 
 
 - **YouTube:** [YouTube](https://YouTube.com/@iamabdulhannan)
 - **Email:** [E-Mail](mailto:coderabdulhannan@gmail.com)
+
+
+## My Life
+
+```const hannanLife = {
+      "is": "intermediate"
+}```
